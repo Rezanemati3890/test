@@ -1,6 +1,6 @@
-print("reza nemati")
-print("ali nemati")
-print("soodabe afshar")
-print("mamad nemati")
+for x in range(20):
+    if x == 15:
+        break
+    print(x)
 
 
