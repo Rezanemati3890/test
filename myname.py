@@ -3,6 +3,7 @@ for x in range(20):
         break
     print(x)
 
-x = ["cherry"]
+x = ["cherry", "apple"]
+
 
 
